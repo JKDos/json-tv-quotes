@@ -265,7 +265,8 @@
         "source": "The Dark Knight Rises",
         "quote": "I do fear death. I fear dying in here while my city burns. And there's no one there to save it.",
         "author": "Bruce Wayne"
-    }, {
+    },
+    {
         "type": "tv",
         "language": "eng",
         "source": "The IT Crowd",
@@ -386,149 +387,9 @@
     {
         "type": "tv",
         "language": "eng",
-        "source": "Person Of Interest",
-        "quote": "Pain tethers me to the world",
-        "author": "Finch"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Person Of Interest",
-        "quote": "Intentions can be a fickle business.",
-        "author": "Finch"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
         "source": "Red Dwarf",
         "quote": "They're all dead. Everybody's dead, Dave.",
         "author": "Holly"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Person Of Interest",
-        "quote": "I missed on purpose, jackass.",
-        "author": "Shaw"
-    },
-    {
-        "type": "movie",
-        "language": "eng",
-        "source": "Matrix",
-        "quote": "Never send a human to do a machine's job.",
-        "author": "Agent Smith"
-    },
-    {
-        "type": "movie",
-        "language": "eng",
-        "source": "Gone With the Wind",
-        "quote": "Frankly, my dear, I don't give a damn.",
-        "author": "Rhett Butler"
-    },
-    {
-        "type": "movie",
-        "language": "eng",
-        "source": "Matrix",
-        "quote": "Dodge this.",
-        "author": "Trinity"
-    },
-    {
-        "type": "movie",
-        "language": "eng",
-        "source": "Matrix",
-        "quote": "Stop trying to hit me and hit me.",
-        "author": "Morpheus"
-    },
-    {
-        "type": "movie",
-        "language": "eng",
-        "source": "Matrix",
-        "quote": "Do you think that's air you're breathing now?",
-        "author": "Morpheus"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Always Sunny in Philadelphia",
-        "quote": "We're two different people. We can't have the same left.",
-        "author": "Charlie"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Always Sunny in Philadelphia",
-        "quote": "You think I wouldn't know if the guy I'm dating is retarded?",
-        "author": "Dee"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Always Sunny in Philadelphia",
-        "quote": "You gotta pay the troll toll, if you wanna get into that boy's soul.",
-        "author": "Frank"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Always Sunny in Philadelphia",
-        "quote": "Storm comin', hatchet comin'!",
-        "author": "Charlie"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Always Sunny in Philadelphia",
-        "quote": "I'm not fat. I'm cultivating mass.",
-        "author": "Mac"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Always Sunny in Philadelphia",
-        "quote": "Cat in the wall, eh?! Okay, now you're talking my language.",
-        "author": "Charlie"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Always Sunny in Philadelphia",
-        "quote": "Oh, shit. Look at that door, dude. See that door right there? The one marked 'pirate?' You think a pirate lives in there?",
-        "author": "Charlie"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Always Sunny in Philadelphia",
-        "quote": "Fight Milk! The first alcoholic dairy based protein drink for bodyguards!",
-        "author": "Mac"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Always Sunny in Philadelphia",
-        "quote": "Dayman, fighter of the Nightman, champion of the sun, you're a master of karate and friendship for everyone!",
-        "author": "Dennis and Charlie"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Always Sunny in Philadelphia",
-        "quote": "See, I've always got an A, B and C strike plan to get us out of any potentially life-threatening situation.",
-        "author": "Mac"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Always Sunny in Philadelphia",
-        "quote": "If you're in my room, you're always being filmed.",
-        "author": "Dennis"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Always Sunny in Philadelphia",
-        "quote": "I'm not gonna be buried in a grave. When I'm dead, just throw me in the trash.",
-        "author": "Frank"
     },
     {
         "type": "tv",
@@ -543,62 +404,6 @@
         "source": "Always Sunny in Philadelphia",
         "quote": "I'm a-- full-on rapist, you know? Uh, Africans, dyslexics, children, that sorta thing. ",
         "author": "Charlie"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Person Of Interest",
-        "quote": "I looked for an 'I'm-sorry-I-got-you-shot' card, but they were all out.",
-        "author": "Joss Carter"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Person Of Interest",
-        "quote": "If you really need a mystery, I recommend the human heart.",
-        "author": "Harold Finch"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Mr. Robot",
-        "quote": "The world is a dangerous place, Elliott, not because of those who do evil, but because of those who look on and do nothing.",
-        "author": "Mr. Robot"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "The IT Crowd",
-        "quote": "Did you see that ludicrous display last night?",
-        "author": "Moss"
-    },
-    {
-        "type": "movie",
-        "language": "eng",
-        "source": "The Prestige",
-        "quote": "They'll beg you and they'll flatter you for the secret, but as soon as you give it up... you'll be nothing to them",
-        "author": "Alfred Borden"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-        "quote": "They have neither the time, the training, nor the inclination for strategic thought. I can no longer sit back and allow Communist infiltration, Communist indoctrination, Communist subversion and the international Communist conspiracy to sap and impurify all of our precious bodily fluids.",
-        "author": "Jack D. Ripper"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Game of Thrones",
-        "quote": "When you play the game of thrones, you win or you die. There is no middle ground.",
-        "author": "Cersei Lannister"
-    },
-    {
-        "type": "movie",
-        "language": "eng",
-        "source": "Creator",
-        "quote": "The Love Formula: Add up the number of times you think about the lady each day. Subtract from the total the number of times you think about yourself each day.If the remainder is more lady, and less yourself, then it's love.",
-        "author": "Dr. Harry Wolper"
     },
     {
         "type": "tv",
@@ -618,12 +423,6 @@
         "type": "tv",
         "language": "eng",
         "source": "Archer",
-        "quote": "Oh, I'm sorry. I guess I skipped the Emily Post chapter on how to introduce your mother to a hooker."
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Archer",
         "quote": "He's not coming back from that. That chick was, like, the Pele of anal.",
         "author": "Sterling Archer"
     },
@@ -637,78 +436,9 @@
     {
         "type": "movie",
         "language": "eng",
-        "source": "The Dark Knight Rises",
-        "quote": "I do fear death. I fear dying in here while my city burns. And there's no one there to save it.",
-        "author": "Bruce Wayne"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "The IT Crowd",
-        "quote": "Have you tried turning it off and on again?",
-        "author": "Roy"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Game of Thrones",
-        "quote": "Tears aren't a woman's only weapon. The best one's between your legs.",
-        "author": "Cersei Lannister"
-    },
-    {
-        "type": "tv",
-        "language": "eng",
-        "source": "Game of Thrones",
-        "quote": "Never forget what you are, the rest of the world will not. Wear it like armor and it can never be used to hurt you.",
-        "author": "Tyrion Lannister"
-    },
-    {
-        "type": "movie",
-        "language": "eng",
-        "source": "Fight Club",
-        "quote": "You met me at a very strange time in my life."
-    },
-    {
-        "type": "movie",
-        "language": "eng",
-        "source": "Taken",
-        "quote": "I will look for you, I will find you, and I will kill you.",
-        "author": "Bryan Mills"
-    },
-    {
-        "type": "movie",
-        "language": "eng",
-        "source": "Kingsman: Secret Service",
-        "quote": "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.",
-        "author": "Harry Hart"
-    },
-    {
-        "type": "movie",
-        "language": "eng",
-        "source": "Into The Wild",
-        "quote": "You are wrong if you think joy emanates only or principally from human relationships. God has placed it all around us. It is in everything and anything we might experience. We just have to have the courage to turn against our habitual lifestyle and engage in unconventional living.",
-        "author": "Jon Krakauer"
-    },
-    {
-        "type": "movie",
-        "language": "eng",
         "source": "Zoolander",
         "quote": "I'm pretty sure there's a lot more to life than being really, really good looking. And I plan on finding out what that is.",
         "author": "Derek Zoolander"
-    },
-    {
-        "type": "movie",
-        "language": "eng",
-        "source": "X-Men: Days of Future Past",
-        "quote": "Just because someone stumbles and loses their path, doesn't mean they're lost forever.",
-        "author": "Charles Xavier/Professor X"
-    },
-    {
-        "type": "movie",
-        "language": "eng",
-        "source": "Titanic",
-        "quote": "Jack! Come back! Come back! Come back!.",
-        "author": "Rose"
     },
     {
         "type": "tv",
@@ -1430,7 +1160,8 @@
         "source": "JoJo's Bizarre Adventure: Stardust Crusaders",
         "quote": "Oh? You're approaching me?",
         "author": "Dio Brando"
-    }, {
+    },
+    {
         "type": "movie",
         "language": "eng",
         "source": "The Curious Case of Benjamin Button",
@@ -1576,8 +1307,8 @@
         "source": "The Office",
         "quote": "I am running away from my responsibilities. And it feels good.",
         "author": "Michael Scott"
-    }, {
-
+    },
+    {
         "type": "movie",
         "language": "eng",
         "source": "Love, Rosie",
@@ -1730,5 +1461,2120 @@
         "source": "The Office (US)",
         "quote": "I’ve been involved in a number of cults, both as a leader and a follower. You have more fun as a follower. But you make more money as a leader.",
         "author": "Creed Bratton"
+    },
+    { 
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Dune (1984)", 
+        "quote": "The spice must flow.", 
+        "author": "Guild Navigator" 
+    },
+    { 
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Dune (1984)", 
+        "quote": "He who controls the spice, controls the universe.", 
+        "author": "Baron Vladimir Harkonnen" 
+    },
+    { 
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Dune: Part One", 
+        "quote": "A great man doesn't seek to lead. He's called to it. And he answers.", 
+        "author": "Duke Leto Atreides" 
+    },    
+    { 
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Dune: Part Two", 
+        "quote": "Lead them to paradise.", 
+        "author": "Paul Atreides" 
+    },
+    { 
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Dune: Part Two", 
+        "quote": "This world is beyond cruelty.", 
+        "author": "Paul Atreides" 
+    },
+    { 
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Dune: Part Two", 
+        "quote": "I will love you as long as I breathe.", 
+        "author": "Paul Atreides" 
+    },
+    { 
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Dune: Part Two", 
+        "quote": "You've been fighting the Harkonnens for decades. My family's been fighting them for centuries.", 
+        "author": "Paul Atreides" 
+    },
+    { 
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Dune: Part Two", 
+        "quote": "I'm pointing the WAY!", 
+        "author": "Paul Atreides" 
+    },
+    { 
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Dune: Part Two", 
+        "quote": "I am Paul Muad'Dib Atreides, Duke of Arrakis. The Hand of God be my witness, I am the Voice from the Outer World! I will lead you to PARADISE!", 
+        "author": "Paul Atreides" 
+    },
+    { 
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Dune: Part Two", 
+        "quote": "There is no one in this room who can stand against me. Your mothers warned you about my coming. Fear the moment. But you think you could have a chance. But you are afraid. What if I could be the One? This could be the moment you've been praying for, all your life.", 
+        "author": "Paul Atreides" 
+    },
+    { 
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Dune: Part Two", 
+        "quote": "I recognized your footsteps, old man.", 
+        "author": "Paul Atreides" 
+    },
+    { 
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Dune: Part Two", 
+        "quote": "He who can destroy a thing has the real control it.", 
+        "author": "Paul Atreides" 
+    },
+    { 
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Dune: Part Two", 
+        "quote": "This prophecy is how they enslave us.", 
+        "author": "Chani" 
+    },
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Dune: Part Two", 
+        "quote": "Beware of the trapdoor spiders. Centipedes are very nasty. Not the big ones, they're harmless. But the little ones, you have to worry about.", 
+        "author": "Stilgar" 
+    },
+    { 
+        "type": "book", 
+        "language": "eng", 
+        "source": "Dune", 
+        "quote": "May thy knife chip and shatter!", 
+        "author": "Jamis, Fremen adage" 
+    },
+    { 
+        "type": "book", 
+        "language": "eng", 
+        "source": "Dune", 
+        "quote": "The power to destroy a thing is the absolute control over it.", 
+        "author": "Paul Atreides" 
+    },
+    {
+        "type": "book", 
+        "language": "eng", 
+        "source": "Dune", 
+        "quote": "I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.",
+        "author": "Bene Gesserit rite, The Litany Against Fear" 
+    },
+    {
+        "type": "book", 
+        "language": "eng", 
+        "source": "Dune", 
+        "quote": "On Caladan, we ruled with sea and air power. Here, we must scrabble for desert power",
+        "author": "Duke Leto Atreides" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Clair Obscur: Expedition 33", 
+        "quote": "Parry it!",
+        "author": "Maelle" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Clair Obscur: Expedition 33", 
+        "quote": "For those who come after.",
+        "author": "Gustave" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Clair Obscur: Expedition 33", 
+        "quote": "Learn from the ones that came before... And lay the trail, for the ones who come after.",
+        "author": "Expeditionier mantra" 
+    },    
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Clair Obscur: Expedition 33", 
+        "quote": "When one falls, we continue.",
+        "author": "Lune, Expeditionier oath" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Clair Obscur: Expedition 33", 
+        "quote": "When one falls. \"WHEN\" one falls. Not \"IF\". \"WHEN\".",
+        "author": "Lune" 
+    },    
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Clair Obscur: Expedition 33", 
+        "quote": "If saving you means losing you, then so be it.",
+        "author": "Renoir" 
+    },    
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Clair Obscur: Expedition 33", 
+        "quote": "You should never have come. You're only going to make things worse. For everyone.",
+        "author": "Renoir" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Clair Obscur: Expedition 33", 
+        "quote": "You won't yet understand. But this is a kindness, not a cruelty.",
+        "author": "Renoir" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Clair Obscur: Expedition 33", 
+        "quote": "Stay out of this. You chose to walk away. You don't get to come back now and interfere.",
+        "author": "Renoir" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Clair Obscur: Expedition 33", 
+        "quote": "Sometimes we paint the bars of our own prison.",
+        "author": "Renoir" 
+    },    
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Clair Obscur: Expedition 33", 
+        "quote": "I envy them, those who can't see. Those who know not, that they are not.",
+        "author": "Alicia" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "The Elder Scrolls V: Skyrim", 
+        "quote": "I used to be an adventurer like you. Then I took an arrow in the knee.",
+        "author": "Guard" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "The Elder Scrolls V: Skyrim", 
+        "quote": "I am sworn to carry your burdens...",
+        "author": "Lydia" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "The Elder Scrolls V: Skyrim", 
+        "quote": "My cousin's out fighting dragons, and what do I get? Guard duty.",
+        "author": "Guard" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "The Elder Scrolls V: Skyrim", 
+        "quote": "Do you get to the Cloud District very often? Oh, what am I saying, of course you don't.",
+        "author": "Nazeem" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "The Elder Scrolls V: Skyrim", 
+        "quote": "Nope. Sorry. Nothing.",
+        "author": "Courier" 
+    },    
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "The Elder Scrolls IV: Oblivion", 
+        "quote": "By Azura, by Azura, by Azura! It's the grand champion! I can't believe it's you, standing here next to me!",
+        "author": "Adoring Fan" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "The Elder Scrolls IV: Oblivion", 
+        "quote": "I don't know you, and I don't care to know to know you",
+        "author": "Ulrich Leland" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "The Elder Scrolls IV: Oblivion", 
+        "quote": "You've been a good friend, in the short time that I've known you. But now I must go. The Dragon waits.",
+        "author": "Martin Septim" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "The Elder Scrolls IV: Oblivion", 
+        "quote": "You are the one from my dreams.",
+        "author": "Uriel Septim" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Star Wars: The Old Republic", 
+        "quote": "I'm not cute. I'm deadly.",
+        "author": "Darth Nox" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Star Wars: The Old Republic", 
+        "quote": "I like assassinating assassins. They always look so surprised.",
+        "author": "Emperor's Wrath" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Star Wars: The Old Republic", 
+        "quote": "A blind, deaf, comatose lobotomy patient could feel my anger!",
+        "author": "Darth Baras" 
+    },    
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Star Wars: The Old Republic", 
+        "quote": "Nonsense repeated does not become truth.",
+        "author": "Arcann" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Star Wars: The Old Republic", 
+        "quote": "I have waited twenty thousand years, but I will wait no longer.",
+        "author": "Soa" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Star Wars: The Old Republic", 
+        "quote": "The future is not a river to carry us. It is the ocean in which we drown, if we are not prepared.",
+        "author": "Emperor Valkorion" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Star Wars: The Old Republic", 
+        "quote": "Fear the snake who believes himself a dragon.",
+        "author": "Emperor Valkorion" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Star Wars: The Old Republic", 
+        "quote": "Vexx is the galaxy's greatest quick-draw artist. Vexx can shoot your ears off so fast you won't even hear yourself scream.",
+        "author": "Vexx" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Star Wars: The Old Republic", 
+        "quote": "Sanity is a prison. Let madness release you.",
+        "author": "Dread Master Raptus" 
+    },    
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Star Wars: The Old Republic", 
+        "quote": "Do not seak reason. You cannot comprehend",
+        "author": "Dread Master Raptus" 
+    }, 
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Star Wars: The Old Republic", 
+        "quote": "Spin ever downward. Fall. Disappear.",
+        "author": "Dread Master Raptus" 
+    }, 
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Star Wars: The Old Republic", 
+        "quote": "Is this what you call strategy?",
+        "author": "Dread Master Tyrans" 
+    }, 
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Star Wars: The Old Republic", 
+        "quote": "Do not attempt to comprehend my methods.",
+        "author": "Dread Master Tyrans" 
+    },     
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Star Wars: The Old Republic", 
+        "quote": "As expected, you carelessly breached my inner sanctum.",
+        "author": "Dread Master Calphayus" 
+    },
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Star Wars: The Old Republic", 
+        "quote": "Seeds of darkness bloom into nightmares.",
+        "author": "Dread Master Calphayus" 
+    },      
+    {
+        "type": "game", 
+        "language": "eng", 
+        "source": "Star Wars: The Old Republic", 
+        "quote": "Flesh is insufficient. You must discard it.",
+        "author": "Dread Master Brontes" 
+    },
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man (2002)", 
+        "quote": "With great power comes great responsibility.",
+        "author": "Uncle Ben Parker" 
+    },
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man (2002)", 
+        "quote": "Go web go!",
+        "author": "Peter Parker" 
+    },  
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man (2002)", 
+        "quote": "I missed the part where that's my problem.",
+        "author": "Peter Parker" 
+    },
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man (2002)", 
+        "quote": "That's a cute outfit. Did your husband give it to you?",
+        "author": "Peter Parker" 
+    },
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man (2002)", 
+        "quote": "Sorry I'm late. It's a jungle out there. I had to beat an old lady with a stick to get these cranberries.",
+        "author": "Peter Parker" 
+    },    
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man 2 (2004)", 
+        "quote": "Pizza time!",
+        "author": "Peter Parker" 
+    },        
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man 2 (2004)", 
+        "quote": "I'm back!",
+        "author": "Peter Parker" 
+    },
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man 2 (2004)", 
+        "quote": "You're getting on my nerves!",
+        "author": "Dr. Otto Octavius" 
+    },
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man 2 (2004)", 
+        "quote": "What's \"Hi\"? Can I spend it?",
+        "author": "Mr. Ditkovich" 
+    },
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man 2 (2004)", 
+        "quote": "If promises were crackers, my daughter would be fat",
+        "author": "Mr. Ditkovich" 
+    },
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man 2 (2004)", 
+        "quote": "Sorry doesn't pay the rent.",
+        "author": "Mr. Ditkovich" 
+    },
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man 2 (2004)", 
+        "quote": "Listen, it's a free country. It's not rent-free country.",
+        "author": "Mr. Ditkovich" 
+    },
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man 3 (2007)", 
+        "quote": "It's no big deal. But if you feel that bad about it, you can buy me pizza some time. Today's good.",
+        "author": "Mr. Ditkovich" 
+    },        
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man 3 (2007)", 
+        "quote": "You'll get your rent when you fix this DAMN DOOR!",
+        "author": "Peter Parker" 
+    },             
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man 3 (2007)", 
+        "quote": "If you want the shots, I'll take the staff job. Double the money.",
+        "author": "Peter Parker" 
+    },          
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man 3 (2007)", 
+        "quote": "I'm gonna put some dirt in your eye!",
+        "author": "Peter Parker" 
+    },
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man 3 (2007)", 
+        "quote": "You want forgiveness? Get religion.",
+        "author": "Peter Parker" 
+    },
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man 3 (2007)", 
+        "quote": "Look at little Goblin Jr. Gonna cry?",
+        "author": "Peter Parker" 
+    },
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man 3 (2007)", 
+        "quote": "Still got the moves.",
+        "author": "Peter Parker" 
+    },    
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man 3 (2007)", 
+        "quote": "Never wound what you can't kill.",
+        "author": "Eddie Brock" 
+    },  
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Spider-Man 3 (2007)", 
+        "quote": "I like being bad. It makes me happy.",
+        "author": "Eddie Brock" 
+    },
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "Good Burger", 
+        "quote": "Welcome to good burger, home of the good burger. Can I take your order?",
+        "author": "Ed" 
+    },
+    {
+        "type": "tv", 
+        "language": "eng", 
+        "source": "Drake and Josh", 
+        "quote": "Come on, Dora! You're the one with the map. Don't ask me.",
+        "author": "Crazy Steve" 
+    },
+    {
+        "type": "movie", 
+        "language": "eng", 
+        "source": "The Batman (2022)", 
+        "quote": "I'm vengeance.",
+        "author": "Batman" 
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Dark Knight",
+        "quote": "If you're good at something, never do it for free.",
+        "author": "Joker"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Dark Knight Rises",
+        "quote": "No one cared who I was 'til I put on the mask.",
+        "author": "Bane"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Dark Knight Rises",
+        "quote": "Oh, you think darkness is your ally. But you merely adopted the dark; I was born in it, molded by it. I didn’t see the light until I was already a man. And by then, it was nothing to me but blinding.",
+        "author": "Bane"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Dark Knight Rises",
+        "quote": "So you came back to die with your city.",
+        "author": "Bane"
+    },       
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Dark Knight Rises",
+        "quote": "We come here not as conquerors but as liberators, to return control of this city to the people.",
+        "author": "Bane"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Fellowship of the Ring",
+        "quote": "If I take one more step, it will be the fartherest away from home I've ever been!",
+        "author": "Sam"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Fellowship of the Ring",
+        "quote": "Throw yourself in next time, and rid us of your stupidity.",
+        "author": "Gandalf"
+    },     
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Fellowship of the Ring",
+        "quote": "You shall not pass!",
+        "author": "Gandalf"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Fellowship of the Ring",
+        "quote": "So be it. You shall be the Fellowship of the Ring.",
+        "author": "Elrond"
+    },    
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Fellowship of the Ring",
+        "quote": "A wizard is never late, nor is he early. He arrives precisely when he means to.",
+        "author": "Gandalf"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Fellowship of the Ring",
+        "quote": "I would have followed you, my brother... My captain... My king.",
+        "author": "Boromir"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Fellowship of the Ring",
+        "quote": "One does not simply walk into Mordor.",
+        "author": "Boromir"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Two Towers",
+        "quote": "You'll find more cheer in a graveyard.",
+        "author": "Gimli"
+    }, 
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Two Towers",
+        "quote": "Don't tell the elf.",
+        "author": "Gimli"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Two Towers",
+        "quote": "I would stay still, if I were you.",
+        "author": "Gimli"
+    },     
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Two Towers",
+        "quote": "Look to my coming at first light on the fifth day. At dawn, look to the East.",
+        "author": "Gandalf"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Two Towers",
+        "quote": "You would not part an old man from his walking stick.",
+        "author": "Gandalf"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Two Towers",
+        "quote": "The courtesy of your hall is somewhat lessened of late.",
+        "author": "Gandalf"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Two Towers",
+        "quote": "Keep your forked tongue behind your teeth.",
+        "author": "Gandalf"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Two Towers",
+        "quote": "I did not pass through fire and death to bandy crooked words with a witless worm.",
+        "author": "Gandalf"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Two Towers",
+        "quote": "You have no power here, Gandalf the Grey",
+        "author": "Theodin"
+    },      
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Two Towers",
+        "quote": "A red sun rises, blood has been spilled this night.",
+        "author": "Legolas"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Two Towers",
+        "quote": "They're taking the hobbits to Isengard.",
+        "author": "Legolas"
+    },         
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Two Towers",
+        "quote": "No parent should have to bury their child.",
+        "author": "Theodin"
+    }, 
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Two Towers",
+        "quote": "Your leechcraft would have had me crawling on all fours like a beast!",
+        "author": "Theodin"
+    },      
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Return of the King",
+        "quote": "Never thought I'd die fighting side by side with an elf.",
+        "author": "Gimli"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Return of the King",
+        "quote": "I can't carry it for you, but I can carry you!",
+        "author": "Sam"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Return of the King",
+        "quote": "A day may come when the courage of Men fails, when we forsake our friends and break all bonds of fellowship, but it is not this day.",
+        "author": "Aragorn"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Return of the King",
+        "quote": "By all that you hold dear on this good earth, I bid you stand, Men of the West!",
+        "author": "Aragorn"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Lord of the Rings: The Return of the King",
+        "quote": "Spears shall be shaken, shields shall be splintered, a sword-day, a red day, ere the sun rises!",
+        "author": "Theodin"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Hobbit: The Desolation of Smaug",
+        "quote": "I am fire! I am death!",
+        "author": "Smaug"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 1: The Phantom Menance",
+        "quote": "At last we will reveal ourselves to the Jedi. At last we will have revenge.",
+        "author": "Darth Maul"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 1: The Phantom Menance",
+        "quote": "Now this is podracing!",
+        "author": "Anakin Skywalker"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 1: The Phantom Menance",
+        "quote": "This is getting out of hand. Now there are two of them!",
+        "author": "Viceroy Nute Gunray"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 1: The Phantom Menance",
+        "quote": "There's always a bigger fish.",
+        "author": "Qui-Gon Jinn"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 1: The Phantom Menance",
+        "quote": "The ability to speak does not make you intelligent.",
+        "author": "Qui-Gon Jinn"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 1: The Phantom Menance",
+        "quote": "Wipe them out. All of them.",
+        "author": "Darth Sidious"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 1: The Phantom Menance",
+        "quote": "I will make it legal.",
+        "author": "Darth Sidious"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 1: The Phantom Menance",
+        "quote": "A surprise to be sure, but a welcome one.",
+        "author": "Senator Palpatine"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 1: The Phantom Menance",
+        "quote": "We will watch your career with great interest.",
+        "author": "Chancellor Palpatine"
+    },    
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 2: Attack of the Clones",
+        "quote": "I love democracy.",
+        "author": "Chancellor Palpatine"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 2: Attack of the Clones",
+        "quote": "You call this a diplomatic solution?",
+        "author": "Anakin Skywalker"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 2: Attack of the Clones",
+        "quote": "I'm just a simple man trying to make my way in the universe.",
+        "author": "Jango Fett"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 2: Attack of the Clones",
+        "quote": "This party's over.",
+        "author": "Mace Windu"
+    }, 
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 2: Attack of the Clones",
+        "quote": "I've become more powerful than any Jedi. Even you.",
+        "author": "Count Dooku"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 2: Attack of the Clones",
+        "quote": "I don't like sand. It's coarse and rough and irritating and it gets everywhere.",
+        "author": "Anakin Skywalker"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 2: Attack of the Clones",
+        "quote": "Your clones are very impressive. You must be very proud.",
+        "author": "Obi-Wan Kenobi"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 3: The Revenge of the Sith",
+        "quote": "I'm going to end this, once and for all.",
+        "author": "Mace Windu"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 3: The Revenge of the Sith",
+        "quote": "So this is how liberty dies... with thunderous applause.",
+        "author": "Padme Amidala"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 3: The Revenge of the Sith",
+        "quote": "If you're not with me, then you're my enemy!",
+        "author": "Anakin Skywalker"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 3: The Revenge of the Sith",
+        "quote": "You underestimate my power!",
+        "author": "Anakin Skywalker"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 3: The Revenge of the Sith",
+        "quote": "I have brought peace, freedom, justice, and security to my new empire.",
+        "author": "Anakin Skywalker"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 3: The Revenge of the Sith",
+        "quote": "Only a sith deals in absolutes.",
+        "author": "Obi-Wan Kenobi"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 3: The Revenge of the Sith",
+        "quote": "So uncivilized.",
+        "author": "Obi-Wan Kenobi"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 3: The Revenge of the Sith",
+        "quote": "I have the high ground.",
+        "author": "Obi-Wan Kenobi"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 3: The Revenge of the Sith",
+        "quote": "You have done that yourself.",
+        "author": "Obi-Wan Kenobi"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 3: The Revenge of the Sith",
+        "quote": "Sith lords are our speciality.",
+        "author": "Obi-Wan Kenobi"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 3: The Revenge of the Sith",
+        "quote": "There's no war here, unless you've brought it with you",
+        "author": "Tion Medon"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 3: The Revenge of the Sith",
+        "quote": "Power! Unlimited power!",
+        "author": "Darth Sidious"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 3: The Revenge of the Sith",
+        "quote": "Execute Order 66.",
+        "author": "Darth Sidious"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 3: The Revenge of the Sith",
+        "quote": "I am the Senate.",
+        "author": "Darth Sidious"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 3: The Revenge of the Sith",
+        "quote": "Did you ever hear the tragedy of Darth Plagueis the Wise?",
+        "author": "Darth Sidious"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 3: The Revenge of the Sith",
+        "quote": "It's not a story the Jedi would tell you.",
+        "author": "Darth Sidious"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 3: The Revenge of the Sith",
+        "quote": "The dark side of the Force is a pathway to many abilities some consider to be unnatural.",
+        "author": "Darth Sidious"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 3: The Revenge of the Sith",
+        "quote": "Ironic. He could save others from death, but not himself.",
+        "author": "Darth Sidious"
+    },    
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 4: A New Hope",
+        "quote": "I got a bad feeling about this.",
+        "author": "Han Solo"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 4: A New Hope",
+        "quote": "Hokey religions and ancient weapons are no match for a good blaster at your side, kid.",
+        "author": "Han Solo"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 4: A New Hope",
+        "quote": "Who's the more foolish? The fool or the fool who follows him?",
+        "author": "Obi-Wan Kenobi"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 4: A New Hope",
+        "quote": "I felt a great disturbance in the Force, as if millions of voices suddenly cried out in terror and were suddenly silenced.",
+        "author": "Obi-Wan Kenobi"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 4: A New Hope",
+        "quote": "You will never find a more wretched hive of scum and villainy.",
+        "author": "Obi-Wan Kenobi"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 4: A New Hope",
+        "quote": "The Force will be with you, always.",
+        "author": "Obi-Wan Kenobi"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 4: A New Hope",
+        "quote": "These aren't the droids you're looking for.",
+        "author": "Obi-Wan Kenobi"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 4: A New Hope",
+        "quote": "That's no moon.",
+        "author": "Obi-Wan Kenobi"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 4: A New Hope",
+        "quote": "I find your lack of faith disturbing.",
+        "author": "Darth Vader"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 4: A New Hope",
+        "quote": "The Force is strong with this one.",
+        "author": "Darth Vader"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 4: A New Hope",
+        "quote": "Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.",
+        "author": "Darth Vader"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 4: A New Hope",
+        "quote": "Help Me, Obi-Wan Kenobi, you're my only hope.",
+        "author": "Princess Leia"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 4: A New Hope",
+        "quote": "Aren't you a little short to be a storm trooper?",
+        "author": "Princess Leia"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 4: A New Hope",
+        "quote": "Hello there.",
+        "author": "Obi-Wan Kenobi"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 4: A New Hope",
+        "quote": "What a piece of junk!",
+        "author": "Luke Skywalker"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 5: The Empire Strikes Back",
+        "quote": "He's no good to me dead.",
+        "author": "Boba Fett"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 5: The Empire Strikes Back",
+        "quote": "I am altering the deal. Pray I don't alter it any further.",
+        "author": "Darth Vader"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 5: The Empire Strikes Back",
+        "quote": "Join me, and together we can rule the galaxy as father and son.",
+        "author": "Darth Vader"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 5: The Empire Strikes Back",
+        "quote": "Would it help if I got out and pushed?",
+        "author": "Princess Leia"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 5: The Empire Strikes Back",
+        "quote": "I don't know where you get your delusions, laser brain.",
+        "author": "Princess Leia"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 5: The Empire Strikes Back",
+        "quote": "No ship that small has a cloaking device.",
+        "author": "Captain Needa"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 5: The Empire Strikes Back",
+        "quote": "The possibility of successfully navigating an asteroid field is approximately 3,720 to 1!",
+        "author": "Captain Needa"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 5: The Empire Strikes Back",
+        "quote": "Never tell me the odds.",
+        "author": "Han Solo"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 6: The Return of the Jedi",
+        "quote": "Your overconfidence is your weakness.",
+        "author": "Luke Skywalker"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 6: The Return of the Jedi",
+        "quote": "I am a Jedi, like my father before me.",
+        "author": "Luke Skywalker"
+    },    
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 6: The Return of the Jedi",
+        "quote": "Many Bothans died to bring us this information.",
+        "author": "Mon Mothma"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 6: The Return of the Jedi",
+        "quote": "It's a trap!",
+        "author": "Admiral Ackbar"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 6: The Return of the Jedi",
+        "quote": "It's an older code, sir, but it checks out.",
+        "author": "Admiral Piett"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars: Rogue One",
+        "quote": "Rogue One? There is no Rogue One!",
+        "author": "Rebel Flight Dispatcher"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars: Rogue One",
+        "quote": "I'm one with the Force, and the Force is with me.",
+        "author": "Chirrut Îmwe"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars: Rogue One",
+        "quote": "Make ten men feel like a hundred.",
+        "author": "Cassian Andor"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars: Rogue One",
+        "quote": "Rebellions are built on hope.",
+        "author": "Cassian Andor"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars: Rogue One",
+        "quote": "Congratulations. You are being rescued. Please do not resist.",
+        "author": "K-2SO"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars: Rogue One",
+        "quote": "Save the Rebellion! Save the dream!",
+        "author": "Saw Gerrera"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars: Rogue One",
+        "quote": "We stand here amidst MY achievement! Not yours!",
+        "author": "Saw Gerrera"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars: Rogue One",
+        "quote": "We need a statement, not a manifesto.",
+        "author": "Saw Gerrera"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars: Rogue One",
+        "quote": "Be careful not to choke on your aspirations, Director.",
+        "author": "Darth Vader"
+    },
+    { 
+        "type": "movie",
+        "language": "eng",
+        "source": "Star Wars Episode 7: The Force Awakens",
+        "quote": "That's not how the force works.",
+        "author": "Han Solo"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Bee Movie",
+        "quote": "Ya like jazz?",
+        "author": "Barry B. Benson"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Bee Movie",
+        "quote": "Why is yogurt night so difficult?",
+        "author": "Ken"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Bee Movie",
+        "quote": "What are you talking about? Are there other bugs in you life?",
+        "author": "Ken"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Bee Movie",
+        "quote": "And you'll be happy to know that bees as a species haven't had one day off in 27 million years.",
+        "author": "Trudy"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Bee Movie",
+        "quote": "So you'll just work us to death?",
+        "author": "Barry B. Benson"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Bee Movie",
+        "quote": "According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway, because bees don't care what humans think is impossible.",
+        "author": "Narrator"
+    }, 
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Iron Man",
+        "quote": "Tony Stark was able to build this in a CAVE...with a box of SCRAPS!",
+        "author": "Obadiah Stane"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Iron Man",
+        "quote": "Well, I'm sorry. I'm not Tony Stark.",
+        "author": "Scientist, William Ginter Riva"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Iron Man 2",
+        "quote": " I don't know if you know this, but I don't speak Russian!",
+        "author": "Justin Hammer"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Iron Man 3",
+        "quote": "You know what keeps going through my head? 'Where's my sandwich?'",
+        "author": "Tony Stark"
+    }, 
+    {
+        "type": "tv", 
+        "language": "eng", 
+        "source": "Regular Show", 
+        "quote": "You know who likes special entertainment like that? My mom!",
+        "author": "Muscle Man" 
+    },
+    {
+        "type": "tv", 
+        "language": "eng", 
+        "source": "Regular Show", 
+        "quote": "My boss found out that I gave you guys that TV, and he fired me.",
+        "author": "Jimmy" 
+    },
+    {
+        "type": "tv", 
+        "language": "eng", 
+        "source": "Regular Show", 
+        "quote": "You can't touch music. But music can touch you.",
+        "author": "Mordecai" 
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Truman Show",
+        "quote": "In case I don't see ya, good afternoon, good evening, and good night.",
+        "author": "Truman"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Truman Show",
+        "quote": "Blocked at every turn. Beautifully synchronized, don't you agree",
+        "author": "Truman"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Truman Show",
+        "quote": "We accept the reality of the world with which we are presented. It's as simple as that.",
+        "author": "Christof"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Truman Show",
+        "quote": "There's no more truth out there than there is in the world I created for you.",
+        "author": "Christof"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Martian",
+        "quote": "In the face of overwhelming odds, I'm left with only one option. I'm gonna have to science the shit out of this!",
+        "author": "Mark Watney"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Martian",
+        "quote": "Look, I don't mean to sound arrogant or anything... but I am the greatest botanist on this planet.",
+        "author": "Mark Watney"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Martian",
+        "quote": "They say once you grow crops somewhere, you have officially colonized it. So, technically, I colonized Mars.",
+        "author": "Mark Watney"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Martian",
+        "quote": "At some point, everything is going to go south on you. Everything is going to go south and you're going to say, 'This is it. This is how I end.' Now, you can either accept that... or you can get to work.",
+        "author": "Mark Watney"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Martian",
+        "quote": "I'd get to fly around like Iron Man.",
+        "author": "Mark Watney"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Martian",
+        "quote": "I'm gonna be taking a craft over in international waters without permission. Which, by definition, makes me a pirate.",
+        "author": "Mark Watney"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Robots",
+        "quote": "Why be you, when you can be new?",
+        "author": "Ratchet"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Robots",
+        "quote": "Listen... I know it isn't easy, Rodney, but a dream that you don't fight for can haunt you for the rest of your life.",
+        "author": "Herb Copperbottom"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Robots",
+        "quote": "If you can make it here, you can make it anywhere. And if you can't make it here, welcome to the club.",
+        "author": "Fender"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Robots",
+        "quote": "Where do they make dreamers like you? Get lost, freak!",
+        "author": "Tim the Gate Controller"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Robots",
+        "quote": "You know it used to be a lot worse. They had this giant hammer...oh they brought it back.",
+        "author": "Fender"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Robots",
+        "quote": "Making the baby's the fun part.",
+        "author": "Lydia Copperbottom"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Robots",
+        "quote": "Soon as you reach the age where your warranty expires, you start falling apart.",
+        "author": "Herb Copperbottom"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Robots",
+        "quote": "Never try, never fail. Those are the words I live by.",
+        "author": "Crank"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Over the Hedge",
+        "quote": "Please, I'm just a desperate guy trying to feed his family.",
+        "author": "RJ"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Over the Hedge",
+        "quote": "For humans, enough is never enough.",
+        "author": "RJ"
+    }, 
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Over the Hedge",
+        "quote": "Why does everyone think I need a man, huh? I look like a nest and smell like a swamp.",
+        "author": "Stella"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Over the Hedge",
+        "quote": "That, my friend, is a magical combination of corn flour, dehydrated cheese solids, BHA, BHT and good old MSG, a.k.a., the chip.",
+        "author": "RJ"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Over the Hedge",
+        "quote": "We eat to live, these guys live to eat.",
+        "author": "RJ"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Over the Hedge",
+        "quote": "Fat-free cookies? Might as well be eating dirt.",
+        "author": "RJ"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Over the Hedge",
+        "quote": "The Verminator is on the job.",
+        "author": "Dwayne LaFontante"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Over the Hedge",
+        "quote": "Buenos días, reptile.",
+        "author": "Dwayne LaFontante"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Over the Hedge",
+        "quote": "You've just been verminated.",
+        "author": "Dwayne LaFontante"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Over the Hedge",
+        "quote": "Oh, really? Do you, in fact, have an associates degree from Vermtech?",
+        "author": "Dwayne LaFontante"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Over the Hedge",
+        "quote": "Where have you been? I'm throwing a 'Welcome to the Neighborhood' party, and so far Debbie's car has killed more animals than you have.",
+        "author": "Gladys Sharp"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Over the Hedge",
+        "quote": "Hey, hey, hey! It's Faaaat Albert!",
+        "author": "Fat Albert"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Maze Runner",
+        "quote": "Whatever we need, the Box provides. The rest is up to us.",
+        "author": "Alby"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Maze Runner",
+        "quote": "Remember... Wicked is good.",
+        "author": "Dr. Ava Paige"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Maze Runner",
+        "quote": "Tonight we are going to rob a bank.",
+        "author": "Daniel"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Maze Runner",
+        "quote": "That's a lot of excitement for a crime.",
+        "author": "Daniel"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Maze Runner",
+        "quote": "You're an idiot if you think they robbed a bank.",
+        "author": "Thaddeus"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Maze Runner",
+        "quote": "My mama always said life was like a box of chocolates. You never know what you're going to get.",
+        "author": "Forrest Gump"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Maze Runner",
+        "quote": "Mama always said there's an awful lot you can tell about a person by their shoes. Where they're going, where they've been.",
+        "author": "Forrest Gump"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Maze Runner",
+        "quote": "Stupid is as stupid does.",
+        "author": "Forrest Gump"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Maze Runner",
+        "quote": "Shrimp is the fruit of the sea. You can barbecue it, boil it, broil it, bake it, sauté it.",
+        "author": "Bubba Blue"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Maze Runner",
+        "quote": "That's all I have to say about that.",
+        "author": "Forrest Gump"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Ricky Bobby",
+        "quote": "If you ain't first, you're last.",
+        "author": "Reese Bobby"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Ricky Bobby",
+        "quote": "It's the fastest who get paid; and it's the fastest who get laid.",
+        "author": "Reese Bobby"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Ricky Bobby",
+        "quote": "I got a better idea. Why don't you boys go dig a hole, and I'll get another beer.",
+        "author": "Reese Bobby"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Ricky Bobby",
+        "quote": "There ain't nothing more God damn frightening than driving with a live cougar in the car.",
+        "author": "Reese Bobby"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Ricky Bobby",
+        "quote": "I'm too drunk to taste this chicken.",
+        "author": "Ricky Bobby"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Ricky Bobby",
+        "quote": "As a sign of humility, if you kiss me on the lips right now, I will return to Paris and you will never see me again in NASCAR.",
+        "author": "Jean Girard"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Ricky Bobby",
+        "quote": "Shake and bake.",
+        "author": "Cal Naughton Jr"
+    },
+    {
+        "type": "game",
+        "language": "eng",
+        "source": "Sleeping Dogs",
+        "quote": "Why don't you have a poek bun in your hand?",
+        "author": "Street Food Vendor"
+    },
+    {
+        "type": "game",
+        "language": "eng",
+        "source": "Sleeping Dogs",
+        "quote": "A man who never eats pork buns, is never a whole man!",
+        "author": "Street Food Vendor"
+    },
+    {
+        "type": "game",
+        "language": "eng",
+        "source": "Portal",
+        "quote": "The cake is a lie.",
+        "author": "Doug Rattmann"
+    },
+    {
+        "type": "game",
+        "language": "eng",
+        "source": "Portal 2",
+        "quote": "All right, I've been thinking, when life gives you lemons, don't make lemonade! Make life take the lemons back!",
+        "author": "Cave Johnson"
+    },
+    {
+        "type": "game",
+        "language": "eng",
+        "source": "Portal 2",
+        "quote": "I don't want your damn lemons! What am I supposed to do with these?",
+        "author": "Cave Johnson"
+    },
+    {
+        "type": "game",
+        "language": "eng",
+        "source": "Portal 2",
+        "quote": "I'm gonna get my engineers to invent a combustible lemon that'll burn your house down!",
+        "author": "Cave Johnson"
+    },
+    {
+        "type": "game",
+        "language": "eng",
+        "source": "Portal 2",
+        "quote": "Science isn't about \"why\", it's about \"why not\". Why is so much of our science dangerous? Why not marry safe science if you love it so much? In fact, why not invent a special safety door that won't hit you in the butt on the way out, because you are fired!",
+        "author": "Cave Johnson"
+    },
+    {
+        "type": "game",
+        "language": "eng",
+        "source": "Portal 2",
+        "quote": "Oh. Hi. So. How are you holding up? Because I'm a potato.",
+        "author": "GLaDOS"
+    },
+    {
+        "type": "game",
+        "language": "eng",
+        "source": "Portal 2",
+        "quote": "He's not just a regular moron. He's the product of the greatest minds of a generation working together with the express purpose of building the dumbest moron who ever lived. And you just put him in charge of the entire facility.",
+        "author": "GLaDOS"
+    },
+    {
+        "type": "game",
+        "language": "eng",
+        "source": "The Legend of Zelda",
+        "quote": "It's dangerous to go alone.",
+        "author": "Old Man"
+    },
+    {
+        "type": "game",
+        "language": "eng",
+        "source": "Star Fox 64",
+        "quote": "Do a barrel roll!",
+        "author": "Peppy Hare"
+    },
+    {
+        "type": "game",
+        "language": "eng",
+        "source": "Fallout 4",
+        "quote": "War never changes.",
+        "author": "The Wanderer"
+    },
+    {
+        "type": "game",
+        "language": "eng",
+        "source": "Far Cry 3",
+        "quote": "Did I ever tell you what the definition of insanity is?",
+        "author": "Vaas Montenegro"
+    },
+    {
+        "type": "game",
+        "language": "eng",
+        "source": "Mass Effect",
+        "quote": "I should go.",
+        "author": "Commander Shepard"
+    },
+    {
+        "type": "game",
+        "language": "eng",
+        "source": "Diablo II",
+        "quote": "Stay awhile and listen.",
+        "author": "Deckard Cain"
+    },
+    {
+        "type": "game",
+        "language": "eng",
+        "source": "Metal Gear Solid V: The Phantom Pain",
+        "quote": "Why are we still here? Just to suffer?",
+        "author": "Kazuhira 'Kaz' Miller"
+    },
+    {
+        "type": "game",
+        "language": "eng",
+        "source": "Grand Theft Auto: San Andreas",
+        "quote": "All you had to do is follow the damn train, CJ",
+        "author": "Big Smoke"
+    },
+    {
+        "type": "game",
+        "language": "eng",
+        "source": "Grand Theft Auto: San Andreas",
+        "quote": "I'll have two number nines, a number nine large, a number six with extra dip, a number seven, two number forty-fives, one with cheese, and a large soda.",
+        "author": "Big Smoke"
+    },
+    {
+        "type": "game",
+        "language": "eng",
+        "source": "Grand Theft Auto V",
+        "quote": "You forget a thousand things every day, pal. Make sure this is one of 'em.",
+        "author": "Michael De Santa"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Holes",
+        "quote": "I'm tired of this, Grandpa!",
+        "author": "Warden Louise Walker"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Holes",
+        "quote": "Well that's too damn bad! You keep digging.",
+        "author": "Charles 'Trout' Walker"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Holes",
+        "quote": "I ain't gonna kill you, but by the time I'm finished with you, you gonna wish you was dead!",
+        "author": "Charles 'Trout' Walker"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Captain America: The First Avenger",
+        "quote": "I Can Do This All Day",
+        "author": "Steve Rogers"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Guardians of the Galaxy Vol. 2",
+        "quote": "He may have been your father, boy, but he wasn't your daddy.",
+        "author": "Yondu"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Shining",
+        "quote": "Here's Johnny!",
+        "author": "Jack Torrance"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Scarface",
+        "quote": "Say hello to my little friend!",
+        "author": "Tony Montana"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "A Few Good Men",
+        "quote": "You can't handle the truth!",
+        "author": "Colonel Nathan Jessup"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Toy Story",
+        "quote": "To infinity and beyond!",
+        "author": "Buzz Lightyear"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Toy Story",
+        "quote": "There's a snake in my boot.",
+        "author": "Woody"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Monsters Inc",
+        "quote": "I'll kidnap a thousand children before I let this company die!",
+        "author": "Henry J. Waternoose"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Monsters Inc",
+        "quote": "Put that thing back where it came from, or so help me!",
+        "author": "Mike Wazowski"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Star Trek",
+        "quote": "Live long and prosper.",
+        "author": "Spock"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Office",
+        "quote": "That's what she said.",
+        "author": "Michael Scott"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Office",
+        "quote": "Whenever I'm about to do something, I think, 'Would an idiot do that?', and if they would, I do not do that thing.",
+        "author": "Dwight Schrute"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Terminator",
+        "quote": "I'll be back.",
+        "author": "The Terminator"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Terminator",
+        "quote": "Come with me if you want to live.",
+        "author": "Kyle Reese"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Terminator 2: Judgment Day",
+        "quote": "Hasta la vista, baby.",
+        "author": "The Terminator"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Sudden Impact",
+        "quote": "Go ahead, make my day.",
+        "author": "Detective Harry Callahan"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Raiders of the Lost Ark",
+        "quote": "Why did it have to be snakes?",
+        "author": "Indiana Jones"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Indiana Jones and the Last Crusade",
+        "quote": "That belongs in a museum!",
+        "author": "Indiana Jones"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "They Live",
+        "quote": "I have come here to chew bubblegum and kick ass, and I'm all out of bubblegum.",
+        "author": "John Nada"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Titanic",
+        "quote": "I'm the king of the world",
+        "author": "Jack Dawson"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Apollo 13",
+        "quote": "Houston, we have a problem.",
+        "author": "Jim Lovell"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Field of Dreams",
+        "quote": "If you build it, he will come.",
+        "author": "Disembodied Voice"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Treasure of the Sierra Madre",
+        "quote": "Badges? We ain't got no badges! We don't need no badges! I don't have to show you any stinking badges!",
+        "author": "Gold Hat"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "King Kong (1933)",
+        "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
+        "author": "Carl Denham"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Jaws",
+        "quote": "You're gonna need a bigger boat.",
+        "author": "Martin Brody"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Midnight Cowboy",
+        "quote": "I'm walking here! I'm walking here!",
+        "author": "Ratso Rizzo"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Wizard of Oz",
+        "quote": "There's no place like home.",
+        "author": "Dorothy"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Harry Potter and the Sorcerer's Stone",
+        "quote": "You're a wizard, Harry!",
+        "author": "Rubeus Hagrid"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Avengers: Endgame",
+        "quote": "I see this as an absolute win!",
+        "author": "Bruce Banner"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "quote": "You are without doubt the worst pirate I've ever heard of!",
+        "author": "Commodore James Norrington"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Princess Bride",
+        "quote": "My name is Inigo Montoya, you killed my father, prepare to die.",
+        "author": "Inigo Montoya"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Princess Bride",
+        "quote": "You keep using that word. I do not think it means what you think it means.",
+        "author": "Inigo Montoya"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Captain Phillips",
+        "quote": "Look at me! I'm the captain now",
+        "author": "Muse"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Air Force One",
+        "quote": "Get off my plane!",
+        "author": "President James Marshall"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Gladiator",
+        "quote": "Are you not entertained?",
+        "author": "Maximus Decimus Meridius"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Saw",
+        "quote": "I want to play a game.",
+        "author": "Jigsaw"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "Avatar: The Last Airbender",
+        "quote": "Power and perfection are overrated. I think you are wise to choose happiness and love.",
+        "author": "Iroh"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "Billy Madison",
+        "quote": "What you've just said is one of the most insanely idiotic things I have ever heard. At no point in your rambling, incoherent response were you even close to anything that could be considered a rational thought. Everyone in this room is now dumber for having listened to it. I award you no points, and may God have mercy on your soul.",
+        "author": "Principal Max Anderson"
+    },
+    {
+        "type": "movie",
+        "language": "eng",
+        "source": "The Wicker Man (2006)",
+        "quote": "How'd it get burned!",
+        "author": "Edward Malus"
     }
+
 ]
