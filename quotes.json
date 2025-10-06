@@ -3026,7 +3026,7 @@
     {
         "type": "movie",
         "language": "eng",
-        "source": "Over the Hedge",
+        "source": "Fat Albert",
         "quote": "Hey, hey, hey! It's Faaaat Albert!",
         "author": "Fat Albert"
     },
@@ -3047,56 +3047,56 @@
     {
         "type": "movie",
         "language": "eng",
-        "source": "The Maze Runner",
+        "source": "Now You See Me",
         "quote": "Tonight we are going to rob a bank.",
         "author": "Daniel"
     },
     {
         "type": "movie",
         "language": "eng",
-        "source": "The Maze Runner",
+        "source": "Now You See Me",
         "quote": "That's a lot of excitement for a crime.",
         "author": "Daniel"
     },
     {
         "type": "movie",
         "language": "eng",
-        "source": "The Maze Runner",
+        "source": "Now You See Me",
         "quote": "You're an idiot if you think they robbed a bank.",
         "author": "Thaddeus"
     },
     {
         "type": "movie",
         "language": "eng",
-        "source": "The Maze Runner",
+        "source": "Forrest Gump",
         "quote": "My mama always said life was like a box of chocolates. You never know what you're going to get.",
         "author": "Forrest Gump"
     },
     {
         "type": "movie",
         "language": "eng",
-        "source": "The Maze Runner",
+        "source": "Forrest Gump",
         "quote": "Mama always said there's an awful lot you can tell about a person by their shoes. Where they're going, where they've been.",
         "author": "Forrest Gump"
     },
     {
         "type": "movie",
         "language": "eng",
-        "source": "The Maze Runner",
+        "source": "Forrest Gump",
         "quote": "Stupid is as stupid does.",
         "author": "Forrest Gump"
     },
     {
         "type": "movie",
         "language": "eng",
-        "source": "The Maze Runner",
+        "source": "Forrest Gump",
         "quote": "Shrimp is the fruit of the sea. You can barbecue it, boil it, broil it, bake it, sauté it.",
         "author": "Bubba Blue"
     },
     {
         "type": "movie",
         "language": "eng",
-        "source": "The Maze Runner",
+        "source": "Forrest Gump",
         "quote": "That's all I have to say about that.",
         "author": "Forrest Gump"
     },
@@ -3573,8 +3573,9 @@
         "type": "movie",
         "language": "eng",
         "source": "The Wicker Man (2006)",
-        "quote": "How'd it get burned!",
+        "quote": "How'd it get burned!?",
         "author": "Edward Malus"
     }
 
 ]
+
